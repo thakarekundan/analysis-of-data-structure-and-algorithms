@@ -1,0 +1,137 @@
+BINARY TREE: 
+
+0.DELETE && search 
+
+A)Delete given Binary Tree | Iterative & Recursive 
+
+B)search an element in binary tree 
+
+1.INSERTION 
+
+2.TRAVERSAL 
+
+A)IN,PRE,POST(iterative,recursive) 
+
+B)level order(iterative) 
+
+C)line by line(top->bottom,bottom->top) 
+
+D)level order traversal in spiral form or zig-zag form 
+
+E)print all nodes at level k 
+
+F)left,right,top,bottom view of binary tree 
+
+G)print binary tree in vertical order 
+
+H) Longest consecutive sequence in Binary tree 
+
+I) Print all paths from root to leaf nodes in a binary tree 
+
+J) Perform vertical traversal of a binary tree 
+
+K) Print corner nodes of every level in binary tree 
+
+L) Print Diagonal Traversal of Binary Tree 
+
+M)pre , inorder traversal without using recursion and stack(morris method)  
+
+3.FIND 
+
+A)Height of binary tree 
+
+B)max width of binary tree 
+
+C)find least common ancesstor(LCA) of two  node in binary tree 
+
+D)maximum sum root to leaf path 
+
+E)diameter of a binary tree 
+
+F) Find the maximum possible sum from one leaf node to another(MAX   PATH SUM) 
+
+G)Number of leaf nodes 
+
+H)number of non leaf nodes 
+
+I)vertical width of binary tree 
+
+J)find cousins of given node in binary tree 
+
+K)find ancestor of given node in binary tree 
+
+L) Find the distance between given pairs of nodes in a binary tree 
+
+M) Find Vertical Sum in a given Binary Tree 
+
+N)diagonal sum in binary tree 
+
+O)maximum element in binary tree 
+
+M) Finding the inorder predecessor and successor 
+
+ 
+
+ 
+
+4.CHECK 
+
+A)check given binary tree is BST or not 
+
+B)check a given binary tree,if it follows children sum property 
+
+C)check binary tree is balanced or not 
+
+D)check binary tree is complete binary tree or not 
+
+E)check two tree are identical or not 
+
+F)check a tree is identical to it self 
+
+G)check two tree are symmetric or not 
+
+H)Given a binary tree, check whether it is a mirror of itself( check whether a binary is Symmetric or not,) 
+
+I)check if subtree 
+
+J)check given  two nodes are cousin or not 
+
+         H) Strict or full binary tree 
+
+   I) Perfect binary tree 
+
+J)check two trees are isomorphic to each other or not 
+
+ 
+
+5)CONVERT || CONSTRUCT 
+
+A)convert a binary tree into doubly linked list 
+
+B)construct binary tree from inorder & preorder sequence 
+
+C)construct binary tree from inorder & postorder sequence 
+
+D) Given a Binary Tree, convert it into its mirror. 
+
+E)make binary tree from linked list 
+
+F) Convert a Binary Tree to a circular DLL 
+
+G) Convert a given tree to its sum tree 
+
+H) Convert a normal binary search tree to balanced BST. 
+
+6)misc 
+
+A)Serialize and Deserialize a Binary Tree 
+
+B)Connect Nodes at Same Level 
+
+C) Given a binary tree, find out if the tree can be folded or not. 
+
+D) clone of a tree with random pointer 
+
+E)expression tree 
+
+ 
